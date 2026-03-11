@@ -1,5 +1,9 @@
 hi,
 i am Shreyah Chougale
+<<<<<<< HEAD
 gfrghfg
 i am yadnesh
+=======
+Python,Java,Yarn
+>>>>>>> acff74dfd381913091418fce9561c07b144c276e
 
